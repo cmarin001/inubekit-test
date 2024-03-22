@@ -39,16 +39,17 @@
     "styled-components": "^6.1.8"
   },
   "devDependencies": {
+    "@auto-it/all-contributors": "^11.1.2",
     "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^18.4.4",
     "@storybook/addon-essentials": "^8.0.2",
     "@storybook/addon-interactions": "^8.0.2",
     "@storybook/addon-links": "^8.0.2",
+    "@storybook/addon-onboarding": "^1.0.10",
     "@storybook/blocks": "^8.0.2",
     "@storybook/react": "^8.0.2",
     "@storybook/react-vite": "^8.0.2",
     "@storybook/test": "^8.0.2",
-    "@storybook/addon-onboarding": "^1.0.10",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@types/styled-components": "^5.1.34",
@@ -79,5 +80,6 @@
         "dir": "dist"
       }
     ]
-  }
+  },
+  "repository": "inubekit/test"
 }
