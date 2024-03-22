@@ -31,7 +31,7 @@
     "auto": "auto",
     "changelog": "npm run auto changelog",
     "version": "rm -rf dist && npm run build",
-    "release": "git push --follow-tags && npm run auto release"
+    "release": "auto shipit"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "@auto-it/all-contributors": "^11.1.2",
+    "@auto-it/npm": "^11.1.2",
     "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^18.4.4",
     "@storybook/addon-essentials": "^8.0.2",

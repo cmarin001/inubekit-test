@@ -1,0 +1,10 @@
+{
+  "repo": "cmarin001/inubekit-test",
+  "owner": "cmarin001",
+  "plugins": [
+    "npm",
+    {
+      "assets": ["dist/**/*.*", "package.json"]
+    }
+  ]
+}
