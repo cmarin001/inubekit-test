@@ -72,15 +72,5 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  },
-  "auto": {
-    "plugins": [
-      "npm",
-      {
-        "type": "released",
-        "dir": "dist"
-      }
-    ]
-  },
-  "repository": "inubekit/test"
+  }
 }
