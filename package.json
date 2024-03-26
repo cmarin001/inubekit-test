@@ -10,7 +10,7 @@
   ],
   "description": "",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2--canary.a7d102d.0",
   "type": "module",
   "exports": {
     ".": {
