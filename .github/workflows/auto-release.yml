@@ -16,6 +16,14 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: "14"
+          registry-url: "https://registry.npmjs.org/"
+          scope: "@inubekit"
+          always-auth: true
+
+      - name: Configure Git
+        run: |
+          git config --global user.email cmarin@sistemasenlinea.com.co
+          git config --global user.name cmarin001
 
       - name: Install Dependencies
         run: npm install
