@@ -10,7 +10,7 @@
   ],
   "description": "",
   "private": false,
-  "version": "0.0.2--canary.fd9cc7f.0",
+  "version": "1.0.0",
   "type": "module",
   "exports": {
     ".": {
@@ -44,8 +44,6 @@
     "styled-components": "^6.1.8"
   },
   "devDependencies": {
-    "@auto-it/all-contributors": "^11.1.2",
-    "@auto-it/npm": "^11.1.2",
     "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^18.4.4",
     "@storybook/addon-essentials": "^8.0.2",
