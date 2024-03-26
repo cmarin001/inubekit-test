@@ -34,6 +34,10 @@
     "release": "git push --follow-tags && npm run auto release",
     "autorelease": "auto shipit"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
