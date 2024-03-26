@@ -1,10 +1,9 @@
 {
-  "repo": "cmarin001/inubekit-test",
-  "owner": "cmarin001",
   "plugins": [
-    "npm",
-    {
-      "assets": ["dist/**/*.*", "package.json"]
-    }
-  ]
+    "git-tag"
+  ],
+  "owner": "cmarin001",
+  "repo": "inubekit-test",
+  "name": "cmarin001",
+  "email": "cmarin6051@gmail.com"
 }
