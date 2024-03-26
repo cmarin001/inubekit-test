@@ -79,10 +79,7 @@
   "repository": "cmarin001/inubekit-test",
   "auto": {
     "plugins": [
-      "npm",
-      {
-        "setRcToken": true
-      }
+      "npm"
     ]
   }
 }
