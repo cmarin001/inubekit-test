@@ -2,6 +2,42 @@
 
 #### 💥 Breaking Change
 
+- fix: remove unnecessary code [#10](https://github.com/cmarin001/inubekit-test/pull/10) ([@cmarin001](https://github.com/cmarin001))
+- fix(palette): change purple p200 token in order to use it as figma requires [#9](https://github.com/cmarin001/inubekit-test/pull/9) ([@cmarin001](https://github.com/cmarin001))
+- fix(palette): change purple p200 token in order to use it as figma requires [#8](https://github.com/cmarin001/inubekit-test/pull/8) ([@cmarin001](https://github.com/cmarin001))
+- fix(palette): change purple p200 token in order to use it as figma re… [#7](https://github.com/cmarin001/inubekit-test/pull/7) ([@cmarin001](https://github.com/cmarin001))
+- feat: added assited tokens [#6](https://github.com/cmarin001/inubekit-test/pull/6) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🚀 Enhancement
+
+- fix(assisted): remove unnecessary code [#5](https://github.com/cmarin001/inubekit-test/pull/5) ([@cmarin001](https://github.com/cmarin001))
+- fix(test): change name's directory [#4](https://github.com/cmarin001/inubekit-test/pull/4) ([@cmarin001](https://github.com/cmarin001))
+- fix: update auto-configuration [#3](https://github.com/cmarin001/inubekit-test/pull/3) ([@cmarin001](https://github.com/cmarin001))
+- Include the assisted component for test [#2](https://github.com/cmarin001/inubekit-test/pull/2) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🐛 Bug Fix
+
+- fix: added configuration for npm-release [#11](https://github.com/cmarin001/inubekit-test/pull/11) ([@cmarin001](https://github.com/cmarin001))
+- Include the assisted component for test [#1](https://github.com/cmarin001/inubekit-test/pull/1) ([@cmarin001](https://github.com/cmarin001))
+
+#### ⚠️ Pushed to `main`
+
+- fix(auto): change the auto configuration in orderder to make the releases automatically ([@cmarin001](https://github.com/cmarin001))
+- fix: update github action ([@cmarin001](https://github.com/cmarin001))
+- fix(auto-release): add file that executes the command ([@cmarin001](https://github.com/cmarin001))
+- fix: update auto-configuration ([@cmarin001](https://github.com/cmarin001))
+- Initial commit ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
+# v1.0.0 (Tue Mar 26 2024)
+
+#### 💥 Breaking Change
+
 - feat: added assited tokens [#6](https://github.com/cmarin001/inubekit-test/pull/6) ([@cmarin001](https://github.com/cmarin001))
 
 #### 🚀 Enhancement
