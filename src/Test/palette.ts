@@ -83,7 +83,7 @@ const palette = {
     T300: "#00B8D9",
     T200: "#00C7E6",
     T100: "#79E2F2",
-    T75: "#B3F5FF",
+    T75: "#B3F5F0",
     T50: "#E6FCFF",
   },
   purple: {
