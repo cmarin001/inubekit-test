@@ -28,13 +28,6 @@ jobs:
       - name: Configure npm for Publishing
         run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > .npmrc
 
-      - name: Commit .npmrc file
-        run: |
-          git add .npmrc
-          git commit -m "Configure npm for publishing"
-          git push --quiet https://${{ secrets.GITHUB_TOKEN }}@github.com/cmarin001/inubekit-test.git main
-      
-
       - name: Install Dependencies
         run: npm install
 
