@@ -25,9 +25,6 @@ jobs:
           git config --global user.email cmarin6051@gmail.com
           git config --global user.name cmarin001
 
-      - name: Configure npm for Publishing
-        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > .npmrc
-
       - name: Install Dependencies
         run: npm install
 
