@@ -35,8 +35,12 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run auto shipit
-        run: npx auto shipit --verbose
+      - name: Make script executable
+        run: chmod +x ./release-script.sh
+
+      - name: Execute Release Script
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }} # Ensure this is set in your repo's secrets if you need it for npm publish
+        run: |
+          ./release-script.sh
