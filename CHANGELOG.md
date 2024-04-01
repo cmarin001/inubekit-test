@@ -1,3 +1,15 @@
+# v16.0.0 (Mon Apr 01 2024)
+
+#### 💥 Breaking Change
+
+- fix: remove unnecessary code [#13](https://github.com/cmarin001/inubekit-test/pull/13) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v15.0.2 (Wed Mar 27 2024)
 
 #### ⚠️ Pushed to `main`
