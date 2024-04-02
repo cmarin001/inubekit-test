@@ -1,3 +1,15 @@
+# v17.0.0 (Tue Apr 02 2024)
+
+#### 💥 Breaking Change
+
+- fix(auto-release): update configuration [#14](https://github.com/cmarin001/inubekit-test/pull/14) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v16.0.0 (Mon Apr 01 2024)
 
 #### 💥 Breaking Change
