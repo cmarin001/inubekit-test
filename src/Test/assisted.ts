@@ -5,7 +5,7 @@ const assisted = {
     appearance: "dark",
   },
   description: {
-    appearance: "blue",
+    appearance: "dark",
   },
   track: {
     color: palette.neutral.N30,
